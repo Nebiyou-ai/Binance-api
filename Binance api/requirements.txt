@@ -1,0 +1,6 @@
+Backtesting
+binance-futures-connector
+openpyxl
+pandas
+python-binance
+ta
